@@ -4,7 +4,7 @@ Alumno Adonis Daller
 
 
 |Hacks   H-4 | 
-|----------|-----------------------------------------------|
+|----------------------------------------------------------|
 | Details                                                  |
 |                                                          |
 |Crear el hack con las habilidades vistas en clases:       |
